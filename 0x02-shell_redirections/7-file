@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Best School" > \*\\'''Best 
+echo -e "Best School" > \*\\'''Best 
 School"\'\\*$\?\*\*\*\*\*:)
 
